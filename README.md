@@ -1,5 +1,7 @@
 # How to use
 ````
+git clone https://github.com/Evi0ned/TextFrontEnd.git
+cd TextFrontEnd
 npm install
 npm run dev
 ````
